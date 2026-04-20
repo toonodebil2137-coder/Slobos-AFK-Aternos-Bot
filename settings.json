@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Sztossbot",
+    "username": "Sztossbott",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "sztossik.aternos.me",
     "port": 47472,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
